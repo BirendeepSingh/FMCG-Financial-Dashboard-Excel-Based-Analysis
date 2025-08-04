@@ -35,4 +35,15 @@ This project presents a comprehensive financial analysis of 7 major FMCG compani
 ---
 
 ## 📷 Preview (Dashboard Screenshot)
-![Dashboard Preview](images/dashboard-preview.png) <!-- Replace with actual image path after upload -->
+<img width="899" height="634" alt="image" src="https://github.com/user-attachments/assets/993489b0-e7cd-46c9-ac23-675e958ee825" />
+ <!-- Replace with actual image path after upload -->
+
+
+## 🧠 Planned Enhancements (Power BI)
+> The project will be extended with an interactive Power BI dashboard featuring:
+- Slicers by Company & Metric
+- Interactive visuals with KPI cards
+- Monthly refresh capability using Excel as source
+- Custom visuals for improved storytelling
+
+Once published, the `.pbix` file will be added to this repository with screenshots.
